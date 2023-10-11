@@ -1,8 +1,5 @@
-# React + Vite
+# REACTJS PIZZA PROJECT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Simple pizza delivery application that I built with React + Vite and used tailwind for styling. Will create a new branch later where I will be accepting potential raised issues and pull requests.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Link: https://glittering-starlight-5ef5cf.netlify.app/
